@@ -2,10 +2,10 @@ package lp2;
 
 public class Agenda {
 
-    private Contato[] contatos = new Contato[100];
+    private Contato[] contatos;
 
     public Agenda(){
-
+        contatos = new Contato[100];
     }
 
     public void cadastraContato(int posicao, String nome, String sobrenome, String telefone){
