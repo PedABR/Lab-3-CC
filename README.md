@@ -1,3 +1,3 @@
-# Lab 3 CC
+# Lab 2 Lp2
 
-O 3º Lab de CC
+O 2º Lab de Lp2.
