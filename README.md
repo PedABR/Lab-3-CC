@@ -1,3 +1,3 @@
-# Tu só Criou um branch, N fez pull request
+# Lab 3 CC
 
 O 3º Lab de CC
