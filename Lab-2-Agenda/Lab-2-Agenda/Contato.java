@@ -19,12 +19,12 @@ public class Contato {
      * @return
      */
     public String getContato() {
-        return "\n" + this.nome + " " + this.sobrenome + " - " + this.telefone + "\n";
+        return "\n" + nome + " " + sobrenome + " - " + telefone + "\n";
     }
 
     @Override
     public String toString(){
-        return this.nome + " " + this.sobrenome + "\n";
+        return nome + " " + sobrenome + "\n";
     }
 
     @Override
